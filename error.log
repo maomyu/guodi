@@ -1,0 +1,14 @@
+{"level":"error","ts":"2019-05-18T13:13:22.611+0800","caller":"guodihttp/frontrequest.go:341","msg":"192.168.10.150:59459查询历史订单出现错误"}
+{"level":"info","ts":"2019-05-18T15:01:19.106+0800","caller":"guodihttp/customerservice.go:101","msg":"asdfghjkl客服准备读取消息"}
+{"level":"info","ts":"2019-05-18T15:01:44.316+0800","caller":"guodihttp/customerservice.go:101","msg":"qwertyuiop客服准备读取消息"}
+{"level":"info","ts":"2019-05-18T15:02:18.253+0800","caller":"guodihttp/customerservice.go:101","msg":"zxcvbnm客服准备读取消息"}
+{"level":"info","ts":"2019-05-18T15:03:48.664+0800","caller":"guodihttp/customerservice.go:202","msg":"成功找到空闲等待的用户asdfghjkl"}
+{"level":"info","ts":"2019-05-18T15:03:48.664+0800","caller":"guodihttp/customerservice.go:139","msg":"张三找到了一个在线客服：asdfghjkl"}
+{"level":"info","ts":"2019-05-18T15:03:48.666+0800","caller":"guodihttp/customerservice.go:145","msg":"张三成功绑定客服"}
+{"level":"info","ts":"2019-05-18T15:03:48.666+0800","caller":"guodihttp/customerservice.go:148","msg":"asdfghjkl客服正处于忙碌状态"}
+{"level":"info","ts":"2019-05-18T15:03:48.666+0800","caller":"guodihttp/customerservice.go:158","msg":"asdfghjkl用户准备读取消息"}
+{"level":"info","ts":"2019-05-18T15:05:41.695+0800","caller":"guodihttp/customerservice.go:202","msg":"成功找到空闲等待的用户qwertyuiop"}
+{"level":"info","ts":"2019-05-18T15:05:41.695+0800","caller":"guodihttp/customerservice.go:139","msg":"李四找到了一个在线客服：qwertyuiop"}
+{"level":"info","ts":"2019-05-18T15:05:41.695+0800","caller":"guodihttp/customerservice.go:145","msg":"李四成功绑定客服"}
+{"level":"info","ts":"2019-05-18T15:05:41.695+0800","caller":"guodihttp/customerservice.go:148","msg":"qwertyuiop客服正处于忙碌状态"}
+{"level":"info","ts":"2019-05-18T15:05:41.695+0800","caller":"guodihttp/customerservice.go:158","msg":"qwertyuiop用户准备读取消息"}
